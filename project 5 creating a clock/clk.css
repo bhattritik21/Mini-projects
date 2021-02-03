@@ -1,0 +1,23 @@
+body {
+ background-color: #ddb272;
+
+}
+
+h1{
+    color: black;
+text-align: center;
+padding: 30px;
+font-size: 100px;
+
+}
+#clock {
+   
+color: rgb(23, 94, 175);
+border: crimson 10px solid;
+text-align: center;
+font-size: 50px;
+background-color: rgb(222, 119, 231);
+margin-left: 300px;
+margin-right: 300px;
+}
+
